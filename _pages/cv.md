@@ -15,8 +15,9 @@ Education
 * Research Master in Finance, Erasmus University Rotterdam, The Netherlands, 2018
 * Master of Science in Finance, University of Delaware, 2015
 
+CV will be uploaded soon.
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
