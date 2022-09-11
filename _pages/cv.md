@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Finance, University of Oklahoma, 2023 (expected)
+* Research Master in Finance, Erasmus University Rotterdam, The Netherlands, 2018
+* Master of Science in Finance, University of Delaware, 2015
+
 
 Work experience
 ======
