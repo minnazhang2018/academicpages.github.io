@@ -23,12 +23,11 @@ FMA Annual Meeting 2022, Atlanta
 *Skewness and Kurtosis, Real Options, and Investment Under Uncertainty (sole-authored)*
 
 ### Publication:
-*The Relation Between Petroleum Product Prices and Crude Oil Prices , (with Louis H. Ederington, Chitru S. Fernando, Thomas K. Lee, and Scott C. Linn), February 2021, Energy Economics, 94, 105079.*
+*The Relation Between Petroleum Product Prices and Crude Oil Prices , (with Louis H. Ederington, Chitru S. Fernando, Thomas K. Lee, and Scott C. Linn), February 2021, Energy Economics, 94, 105079.*\
 [Link](https://doi.org/10.1016/j.eneco.2020.105079)
 
 ### Working papers:
-*1.	Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*
-
+*1.	Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*\
 *2.	News Tones, Information Arrivals, and Sentiments in Commodities: In the Context of Crude Oil (sole-authored)*
 
 My CV is here (available soon).
