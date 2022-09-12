@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Finance, University of Oklahoma, 2023 (expected)
-* Research Master in Finance, Erasmus University Rotterdam, The Netherlands, 2018
-* Master of Science in Finance, University of Delaware, 2015
-
 CV will be uploaded soon.
 
 <!-- Work experience
