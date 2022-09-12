@@ -28,6 +28,6 @@ FMA Annual Meeting 2022, Atlanta
 
 ### Working papers:
 *1.	Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*\
-*2.	News Tones, Information Arrivals, and Sentiments in Commodities: In the Context of Crude Oil (sole-authored)*
+*2.	News Tones, Information Arrivals, and Sentiments in Commodities: In the Context of Crude Oil*
 
 My CV is here (available soon).
