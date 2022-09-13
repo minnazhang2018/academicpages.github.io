@@ -10,7 +10,6 @@ redirect_from:
 
 I am a fifth-year PhD student in finance at the University of Oklahoma, and I expect to graduate in May 2023. My research interests include investments, energy finance, derivatives, and ESG. I will be attending the FMA 2022 Annual Conference and look forward to meeting you.
 
-<<<<<<< HEAD
 My research interests include **Investments, Energy Finance, Derivatives, and ESG**. 
 
 I will be attending the **FMA 2022 Annual Conference** and look forward to meeting you.
@@ -29,7 +28,6 @@ FMA Annual Meeting 2022, Atlanta
 
 ### Working papers:
 *1.	Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*\
-*2.	News Tones, Information Arrivals, and Sentiments in Commodities: In the Context of Crude Oil*
 
 My CV is here (available soon).
 =======
