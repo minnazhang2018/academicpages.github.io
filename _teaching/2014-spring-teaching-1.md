@@ -1,20 +1,7 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+### Independent Instructor:
+Business Finance (FIN 2303), in-person, University of Oklahoma, Fall 2022\
+Investments (FIN 3503), in-person, University of Oklahoma, Spring 2022\
+Investments (FIN 3503), in-person and online, University of Oklahoma, Spring 2021
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Teaching Assistant:
+Investments (FIN 3503), in-person, University of Oklahoma, Fall 2018 
