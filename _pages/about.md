@@ -15,8 +15,7 @@ My research interests include **Investments, Energy Finance, Derivatives, and ES
 I will be attending the **FMA 2022 Annual Conference** and look forward to meeting you.
 
 ### Upcoming Presentation:
-*Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*
-
+*Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*\
 FMA Annual Meeting 2022, Atlanta
 
 ### Job Market Paper:
@@ -27,7 +26,7 @@ FMA Annual Meeting 2022, Atlanta
 [Link](https://doi.org/10.1016/j.eneco.2020.105079)
 
 ### Working papers:
-*1.	Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*\
+*1.	Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*
 
 My CV is here (available soon).
 =======
