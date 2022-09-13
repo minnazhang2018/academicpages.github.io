@@ -7,7 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Huiming (Minna) Zhang   huiming-zhang.com"
+=======
+title                    : "Huiming Zhang's personal website"
+>>>>>>> parent of 6fc0bf0 (update)
 title_separator          : "-"
 name                     : &name "Huiming Zhang"
 description              : &description "Huiming is a fifth-year PhD student in Finance at the University of Oklahoma"
@@ -82,14 +86,14 @@ analytics:
 author:
   name             : "My Profile"
   avatar           : "myphoto.jpg"
-  bio              : "PhD in Finance Candidate, Price College of Business, The University of Oklahoma"
+  bio              : "PhD in Finance Candidate, University of Oklahoma"
   location         : "Norman, OK"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "huimingzhang@ou.edu"
   researchgate     :  "https://www.researchgate.net/profile/Huiming-Zhang-3"
-  University page   :  "https://www.ou.edu/price/finance/faculty/currentstudents"
+  # uri              :
   # bitbucket        :
   # codepen          :
   # dribbble         :
