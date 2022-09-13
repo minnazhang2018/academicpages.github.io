@@ -7,11 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "Huiming (Minna) Zhang   huiming-zhang.com"
 =======
 title                    : "Huiming Zhang's personal website"
->>>>>>> parent of 6fc0bf0 (update)
 title_separator          : "-"
 name                     : &name "Huiming Zhang"
 description              : &description "Huiming is a fifth-year PhD student in Finance at the University of Oklahoma"
