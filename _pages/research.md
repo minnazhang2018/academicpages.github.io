@@ -30,6 +30,7 @@ author_profile: true
 
 ### *News Tones, Information Arrivals, and Sentiments in Commodities: In the Context of Crude Oil (sole-authored)*
 Draft available upon request.\
+
 **Abstract:** I explore the effect of oil shock news tone on oil futures returns and analyze sentiment’s role in the observed price responses. I show that news tone significantly impacts commodity futures returns. Disagreement in “oil shocks” news tones leads to significant adverse oil futures price movements during the 30 minutes following news releases. Using the Gunning-Fog Index to measure text complexity, I find that complexity reduces the magnitude of this adverse effect of Disagreement on oil futures returns. I document a similar result when the news report contains more numerical data. However, I find the Disagreement (in news tone) impact is only significant when there is more uncertainty in the market and the news comes from institutional newswires. I find that the evidence suggests investors overreact to negative news, but price declines are partially reversed on subsequent dates while the price effects of positive news are persistent. News tones associated with demand- and supply-side news have asymmetric effects on oil futures. Demand-side news causes faster and larger effects compared to supply-side news. A simple trading strategy on news tones generates significant and positive returns.
 
 ## Work in progress ###
