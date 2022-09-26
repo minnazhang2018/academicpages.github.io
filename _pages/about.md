@@ -16,7 +16,3 @@ My CV is here
 ### Upcoming Presentation:
 *Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*\
 FMA Annual Meeting 2022, Atlanta
-
-### Job Market Paper:
-*Skewness and Kurtosis, Real Options, and Investment Under Uncertainty (sole-authored)*
-=======
