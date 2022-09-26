@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](http://academicpages.github.io/files/Resume Huiming Zhang.pdf)
+<embed src="{{ site.baseurl }}/files/Resume Huiming Zhang.pdf" width="600" height="700" type='application/pdf'>
+
 
 <!-- Work experience
 ======
