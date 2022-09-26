@@ -13,7 +13,7 @@ I am a PhD Candidate in finance at the University of Oklahoma, and I expect to g
 Email: huimingzhang@ou.edu\
 Phone: +1 (405) 885-8548
 
-[You can find my CV here](http://academicpages.github.io/files/Resume_Huiming_Zhang.pdf)
+[You can find my CV here](http://minnazhang2018.github.io/files/Resume_Huiming_Zhang.pdf)
 
 ### Upcoming Presentation:
 *FMA Annual Meeting 2022, Atlanta: Session 131 - Analysts, Friday, 21 October 9:00 AM - 10:30 AM: Forecaster Herding, Timing and Accuracy in the Age of ESG*
