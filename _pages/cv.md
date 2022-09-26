@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/Resume Huiming Zhang.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Resume_Huiming_Zhang.pdf" width="600" height="700" type='application/pdf'>
 
 
 <!-- Work experience
