@@ -28,5 +28,6 @@ FMA Annual Meeting 2022, Atlanta
 ### Working papers:
 *1.	Forecaster Herding, Timing and Accuracy in the Age of ESG (with Louis H. Ederington and Scott C. Linn)*
 
-My CV is here (available soon).
+My CV is here 
+[Download paper here](http://academicpages.github.io/files/Resume Huiming Zhang.pdf)
 =======

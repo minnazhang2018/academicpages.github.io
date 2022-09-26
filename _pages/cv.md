@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV will be uploaded soon.
+[Download paper here](http://academicpages.github.io/files/Resume Huiming Zhang.pdf)
 
 <!-- Work experience
 ======
