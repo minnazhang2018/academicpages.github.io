@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in finance at the University of Oklahoma, and I expect to graduate in May 2023. My research interests include **Investments, Energy Finance, Derivatives, and ESG**. I am on the job market 2022-2023 and available for interviews. I will be attending the **FMA 2022 Annual Conference** and look forward to meeting you.
+I am a PhD Candidate in finance at the University of Oklahoma, and I expect to graduate in May 2023. My research interests include **Investments, Energy Finance, Derivatives, and ESG**. I am on the job market 2022-2023 and available for interviews. I will attend the **FMA 2022 Annual Conference** and look forward to meeting you.
 
 Email: huimingzhang@ou.edu\
 Phone: +1 (405) 885-8548
